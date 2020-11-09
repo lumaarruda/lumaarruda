@@ -3,9 +3,9 @@
 
 My name is Luma Arruda, I'm Full-Stack develoloper, welcome to my Github!
 
-:mortar_board: <a href="https://www.betrybe.com/" alt="Trybe">Trybe <a> - Full-Stack developer school;
+♀️ <a href="https://www.betrybe.com/" alt="Trybe">Trybe <a> - Full-Stack developer school;
 
-♀️ <a href="https:///www5.usp.br/" alt="USP">USP <a>- Textile and Fashion Bachelor's Degree;
+:mortar_board: <a href="https:///www5.usp.br/" alt="USP">USP <a>- Textile and Fashion Bachelor's Degree;
   
 :mortar_board: <a href="https://www.instagram.com/elascodam/" alt="Elas Codam">Elas Codam <a>- Mulheres na tecnologia;
 
